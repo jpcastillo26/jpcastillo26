@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Juan Pablo Castillo
 
-🚀 **Robotics Engineer | Autonomous Navigation Specialist**
+🚀 **Mechanical, Robotics and Industrial Engineer | Autonomous Navigation**
 
 I'm passionate about building smarter robots and making autonomy a reality. With experience in ROS2, Python, and C++, I work on cutting-edge solutions for robotic navigation and automation.
 
@@ -34,5 +34,3 @@ I'm passionate about building smarter robots and making autonomy a reality. With
 - [LinkedIn](https://www.linkedin.com/in/juan-pablo-castillo-alvarez)
 
 ---
-
-> “Autonomy is not just the future—it's the present I help build.”
